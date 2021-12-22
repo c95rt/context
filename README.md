@@ -3,9 +3,9 @@
 To run the server:
 `go run . api-up`
 
+The server will be started in port 3001
 
 In the file "router.go" of the folder "api", you will find the endpoints.
-The server will start in port 3001
 
 ```
 GET /token: Endpoint to create a token
